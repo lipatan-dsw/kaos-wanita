@@ -1,5 +1,5 @@
-title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,product,price,sku,kondisi
-Jual Kaos Distro / T-Shirt Wanita - RPS 203 Murah,kaos-distro-t-shirt-wanita-rps-203,"
+title,permalink,body,published_at,filter,categories,tags,jenis,brand,description,image,image1,image2,image3,image4,image5,product,price,hargajual,profit,sku,kondisi
+Jual Kaos Distro / T-Shirt Kasual Wanita - PS 517 Murah,kaos-distro-t-shirt-kasual-wanita-ps-517,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -24,6 +24,7 @@ Jual Kaos Distro / T-Shirt Wanita - RPS 203 Murah,kaos-distro-t-shirt-wanita-rps
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -46,7 +47,7 @@ Jual Kaos Distro / T-Shirt Wanita - RPS 203 Murah,kaos-distro-t-shirt-wanita-rps
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Kaos Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Kaos Distro / T-Shirt Wanita - RPS 203 dengan bahan COTTON COMBAD ini dijamin awet.<br/>Kode : RPS 203<br/>Warna : COKLAT<br/>Bahan : COTTON COMBAD<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br>
+         <p>Kaos Distro / T-Shirt Kasual Wanita - PS 517 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Kaos Wanita ini terbuat dari bahan COMBAD.<br/>Kode : PS 517<br/>Warna : PUTIH<br/>Bahan : COMBAD<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -61,8 +62,8 @@ Jual Kaos Distro / T-Shirt Wanita - RPS 203 Murah,kaos-distro-t-shirt-wanita-rps
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,kaos-wanita,raindoz,kaos-wanita,raindoz,"Kaos Wanita Bahan COTTON COMBAD, Ukuran S - XL, Warna COKLAT",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/20-rps-203.jpg,Kaos Distro / T-Shirt Wanita - RPS 203,Rp 87.900,RPS 203,Baru
-Jual Kaos Distro / T-Shirt Wanita - RPS 204 Murah,kaos-distro-t-shirt-wanita-rps-204,"
+     </div><!--/category-tab-->",2017-10-16,html,kaos-wanita,catenzo,kaos-wanita,catenzo,"Kaos Wanita Bahan COMBAD, Ukuran S - XL, Warna PUTIH",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/517-ps-517.jpg,/,/,/,/,/,Kaos Distro / T-Shirt Kasual Wanita - PS 517,Rp 90.400,Rp 105.900,Rp 15.500,PS 517,Baru
+Jual Kaos Distro / T-Shirt Kasual Wanita - PS 518 Murah,kaos-distro-t-shirt-kasual-wanita-ps-518,"
      <div class=""product-details""><!--product-details-->
       <div class=""col-sm-5"">
        <div class=""view-product"">
@@ -87,6 +88,7 @@ Jual Kaos Distro / T-Shirt Wanita - RPS 204 Murah,kaos-distro-t-shirt-wanita-rps
           </a>
          </label>
         </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
         <p><b>Kondisi:</b> {{ page.kondisi }}</p>
         <p><b>Deskripsi:</b> {{ page.description }}</p>
         {% include buy.html %}
@@ -109,7 +111,7 @@ Jual Kaos Distro / T-Shirt Wanita - RPS 204 Murah,kaos-distro-t-shirt-wanita-rps
             <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
             <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
          </ol>         
-         <p>Tampil trendy dengan Kaos Wanita merek Raindoz. Brand fashion asal Bandung. Cocok untuk hadiah orang yang Anda sayangi agar terlihat lebih gaya, tampil berbeda dan percaya diri. Kaos Distro / T-Shirt Wanita - RPS 204 dengan bahan COTTON COMBAD ini dijamin awet.<br/>Kode : RPS 204<br/>Warna : PUTIH<br/>Bahan : COTTON COMBAD<br/>Ukuran : S - XL<br/>Berat : 0.4 kg<br>
+         <p>Kaos Distro / T-Shirt Kasual Wanita - PS 518 adalah salah satu produk merek Catenzo. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Kaos Wanita ini terbuat dari bahan COMBAD.<br/>Kode : PS 518<br/>Warna : ABU MISTY<br/>Bahan : COMBAD<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
          </p>
 
          <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
@@ -124,4 +126,68 @@ Jual Kaos Distro / T-Shirt Wanita - RPS 204 Murah,kaos-distro-t-shirt-wanita-rps
        </div>       
        
       </div>
-     </div><!--/category-tab-->",2017-08-25,html,kaos-wanita,raindoz,kaos-wanita,raindoz,"Kaos Wanita Bahan COTTON COMBAD, Ukuran S - XL, Warna PUTIH",https://images.lipatan.com/katalog-raindoz-2017/foto-produk-satuan/21-rps-204.jpg,Kaos Distro / T-Shirt Wanita - RPS 204,Rp 87.900,RPS 204,Baru
+     </div><!--/category-tab-->",2017-10-16,html,kaos-wanita,catenzo,kaos-wanita,catenzo,"Kaos Wanita Bahan COMBAD, Ukuran S - XL, Warna ABU MISTY",https://images.lipatan.com/katalog-catenzo-2017-2/foto-produk-satuan/518-ps-518.jpg,/,/,/,/,/,Kaos Distro / T-Shirt Kasual Wanita - PS 518,Rp 90.400,Rp 105.900,Rp 15.500,PS 518,Baru
+Jual T- Shirt / Kaos Distro Kasual Wanita - RPS 204 Murah,t-shirt-kaos-distro-kasual-wanita-rps-204,"
+     <div class=""product-details""><!--product-details-->
+      <div class=""col-sm-5"">
+       <div class=""view-product"">
+        <img src=""{{ page.image }}"" alt=""{{ page.product }}"" title=""{{ page.product }}"" />
+        <h3><a style=""text-decoration: none; color: #ffffff"" href=""{{ page.image }}"" target=""_blank"" title=""Klik disini untuk memperbesar"">ZOOM</a></h3>
+       </div>
+      </div>
+
+      <div class=""col-sm-7"">
+       <div class=""product-information""><!--/product-information-->
+        <h1>{{ page.product }}</h1>
+        <p>SKU: {{ page.sku }}</p>
+        <img src=""{{ site.url }}/img/rating.png"" alt=""rating"" title=""rating"" /><br>
+        <span>
+         <span>{{ page.price }}</span>        
+         <label>Stok:<a href=""http://stok.lipatan.com"" target=""_blank"" title=""Cek Stok"">
+          <script type=""text/javascript"">
+          <!--
+          document.write(unescape('%3c%62%75%74%74%6f%6e%20%74%79%70%65%3d%22%62%75%74%74%6f%6e%22%20%63%6c%61%73%73%3d%22%62%74%6e%20%62%74%6e%2d%66%65%66%61%75%6c%74%20%63%61%72%74%22%3e%09%09%09%09%09%09%09%09%09%09%3c%69%20%63%6c%61%73%73%3d%22%66%61%20%66%61%2d%73%68%6f%70%70%69%6e%67%2d%63%61%72%74%22%3e%3c%2f%69%3e%09%09%09%09%09%09%09%09%09%09%43%65%6b%20%53%74%6f%6b%3c%2f%62%75%74%74%6f%6e%3e'));
+          //-->
+          </script>
+          </a>
+         </label>
+        </span>
+        <p><i style=""background-color: #f0ad4e; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Beli : {{ page.price }} </i>  <i style=""background-color: #5bc0de; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Harga Jual : {{ page.hargajual }} </i>  <i style=""background-color: #5cb85c; color: #ffffff; padding: 5px; margin-bottom: 3px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);""> Keuntungan : {{ page.profit }} </i></p>        
+        <p><b>Kondisi:</b> {{ page.kondisi }}</p>
+        <p><b>Deskripsi:</b> {{ page.description }}</p>
+        {% include buy.html %}
+       </div><!--/product-information-->
+      </div>
+     </div><!--/product-details-->
+     
+     <div class=""category-tab shop-details-tab""><!--category-tab-->
+      <div class=""col-sm-12"">
+       <ul class=""nav nav-tabs"">
+        <li class=""active""><a href=""{{ site.url }}{{ page.url }}#keterangan"" data-toggle=""tab"" title=""Keterangan"">Keterangan</a></li>        
+       </ul>
+      </div>
+      <div class=""tab-content"">
+       <div class=""tab-pane fade active in"" id=""keterangan"" >
+        <div class=""col-sm-12"">
+         <h2>{{ page.product }}</h2>         
+         <ol class=""breadcrumb"">
+            <li class=""active"">Tag :</li>
+            <li><a href=""{{ site.url }}/{{ page.jenis }}"" title=""{{ page.jenis }}"">{{ page.jenis }}</a></li>
+            <li><a href=""{{ site.url }}/{{ page.brand }}"" title=""{{ page.brand }}"">{{ page.brand }}</a></li>  
+         </ol>         
+         <p>T- Shirt / Kaos Distro Kasual Wanita - RPS 204 adalah salah satu produk merek Raindoz. Produk fashion handmade asal Bandung yang nyaman digunakan dan tidak pasaran. Cocok untuk Anda agar terlihat lebih gaya, tampil berbeda dan percaya diri. Kaos Wanita ini terbuat dari bahan COMBAD.<br/>Kode : RPS 204<br/>Warna : PUTIH<br/>Bahan : COMBAD<br/>Ukuran : S - XL<br/>Berat : 0.6 kg<br/>Info Lainnya = -<br/>Yuk dibeli kak sebelum kehabisan. Sebelum membeli, harap cek/konfirmasi stok dulu ya kak, karena perputaran barang sangat cepat.<br>
+         </p>
+
+         <p style=""background-color: #5cb85c; color: #ffffff; padding: 5px; text-align: center; display: inline-block; box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);"">
+         Gudang : WRH-1<br>
+         Lokasi : Bandung</p>
+
+         {% include share.html %}
+
+         {% include disqus.html %}
+         
+        </div>
+       </div>       
+       
+      </div>
+     </div><!--/category-tab-->",2017-10-17,html,kaos-wanita,raindoz,kaos-wanita,raindoz,"Kaos Wanita Bahan COMBAD, Ukuran S - XL, Warna PUTIH",https://images.lipatan.com/katalog-raindoz-2017-2/foto-produk-satuan/35-rps-204.jpg,/,/,/,/,/,T- Shirt / Kaos Distro Kasual Wanita - RPS 204,Rp 87.900,Rp 102.900,Rp 15.000,RPS 204,Baru
